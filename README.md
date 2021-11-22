@@ -12,3 +12,12 @@ Using explainable AI to crack open the black box of SpliceAI
 
 # PWM Location
 PWMs generated using activation maximization by gradient ascent are stored in results/A-ascend/
+
+# Citing
+Sullivan et al, Manuscript in Prep
+
+# Contributions
+* Patricia Sullivan: splicing expertise, data analysis, software development
+* Dr Thom Quinn: ML/AI expertise, methods development, data analysis
+* Dr Mark Pinese: splicing expertise, ML/AI expertise, genomic expertise, supervision
+* A/Prof Mark Cowley: splicing expertise, genomic expertise, supervision
